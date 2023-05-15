@@ -1,0 +1,17 @@
+{
+  "app": "1244",
+  "scope": "ALL",
+  "desktop": {
+      "js": [
+          "dist/bundle.js"
+      ],
+      "css": [
+      ]
+  },
+  "mobile": {
+      "js": [
+      ],
+      "css": [
+      ]
+  }
+}

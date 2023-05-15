@@ -1,2 +1,1 @@
-# kintone-osouji
-Created with CodeSandbox
+# react-template
